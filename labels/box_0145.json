@@ -1,0 +1,36 @@
+{
+  "version": "7.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "obstacle",
+      "points": [
+        [
+          1.1505507955936345,
+          428.39657282741734
+        ],
+        [
+          32.97429620563035,
+          439.4124847001224
+        ],
+        [
+          21.95838433292533,
+          474.9082007343941
+        ],
+        [
+          1.1505507955936345,
+          472.4602203182374
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\frames_final\\box_0145.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

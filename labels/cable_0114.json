@@ -1,0 +1,36 @@
+{
+  "version": "7.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "obstacle",
+      "points": [
+        [
+          6.046511627906977,
+          390.45287637698897
+        ],
+        [
+          39.09424724602202,
+          375.1529987760098
+        ],
+        [
+          41.5422276621787,
+          427.78457772337816
+        ],
+        [
+          2.9865361077111388,
+          435.12851897184817
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\frames_final\\cable_0114.jpg",
+  "imageData": null,
+  "imageHeight": 480,
+  "imageWidth": 640
+}

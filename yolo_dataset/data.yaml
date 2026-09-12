@@ -1,0 +1,6 @@
+path: C:\Users\user\Desktop\labeling_project\yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: obstacle
